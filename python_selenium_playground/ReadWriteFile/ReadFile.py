@@ -1,4 +1,4 @@
-file = open('test.txt')
+file = open('../test.txt')
 
 # print(file.read())  # read entire file
 # print(file.read(1))  # read number of bytes from the file
